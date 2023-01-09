@@ -11,4 +11,4 @@ In this article, we will learn to avoid three common pitfalls:
 
 For this purpose, we will build a simple script to handle a task list in Google Sheets. It will do two things: add a checkbox next to new tasks and add a completion date when each task is checked as done.
 
-[Read the full article](https://medium.com/@dmitry-kostyuk)
+[Read the full article](https://medium.com/@dmitry-kostyuk/three-pitfalls-to-avoid-when-using-the-onedit-trigger-in-google-apps-script-706c217e9eeb)
